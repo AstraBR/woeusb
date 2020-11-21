@@ -1,0 +1,18 @@
+open terminal for linux
+
+sudo apt-get update
+
+cd Downloads/  or pasta feito o download
+
+cd woeusb/
+
+cd debinstall/
+
+sudo dpkg -i *.deb
+
+reboot
+
+END!
+
+Caso o pacote esteja quebrado me envie uma mensagem no email:
+astrapenteste@hotmail.com
